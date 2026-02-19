@@ -1,4 +1,4 @@
-# 🎡 OurNoliter.com (우리들의 놀이터)
+# 🎡 OurNoliter.com
 
 Streamlit과 Firebase를 결합한 커뮤니티 플랫폼입니다. 누구나 자신만의 '놀이터(게시판)'를 만들고, 다양한 주제로 글을 쓰며 소통할 수 있는 공간입니다.
 
